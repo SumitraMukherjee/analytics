@@ -1,0 +1,43 @@
+location,longitude,latitude,role,quantity
+Montgomery,-86.300629,32.38012,source,700
+Phoenix,-112.075774,33.44826,source,1400
+Little Rock,-92.274494,34.748655,source,6700
+Sacramento,-121.491014,38.579065,source,600
+Denver,-104.992259,39.74001,source,600
+Tallahassee,-84.280649,30.439775,warehouse,0
+Atlanta,-84.391109,33.748315,warehouse,0
+Boise,-116.193409,43.60698,warehouse,0
+Springfield,-89.643604,39.801055,warehouse,0
+Indianapolis,-86.149964,39.76691,warehouse,0
+Des Moines,-93.615659,41.58979,warehouse,0
+Topeka,-95.671184,39.049285,warehouse,0
+Frankfort,-84.878694,38.19507,warehouse,0
+Baton Rouge,-91.186994,30.443345,destination,500
+Augusta,-69.776218,44.318036,destination,500
+Boston,-71.056699,42.358635,destination,200
+Lansing,-84.552249,42.73194,destination,100
+Saint Paul,-93.093326,44.943829,destination,100
+Jackson,-90.180489,32.29869,destination,200
+Jefferson City,-92.177839,38.577515,destination,100
+Helana,-112.021202,46.58976,destination,600
+Lincoln,-96.707739,40.81362,destination,300
+Carson City,-119.766999,39.164885,destination,100
+Concord,-71.536604,43.20725,destination,200
+Santa Fe,-105.937406,35.691543,destination,500
+Albany,-73.755254,42.651445,destination,600
+Raleigh,-78.642669,35.78551,destination,100
+Bismarck,-100.779334,46.805372,destination,200
+Columbus,-83.002984,39.96196,destination,600
+Oklahoma City,-97.520354,35.472015,destination,100
+Salem,-123.043814,44.93326,destination,300
+Harrisburg,-76.88223,40.259865,destination,400
+Columbia,-81.045249,33.99855,destination,400
+Pierre,-100.350158,44.368924,destination,200
+Nashville,-86.778365,36.167783,destination,500
+Austin,-97.742984,30.267605,destination,400
+Salt Lake City,-111.888229,40.759505,destination,300
+Richmond,-77.433654,37.5407,destination,100
+Olympia,-122.891366,47.039231,destination,200
+Charleston,-81.638989,38.350195,destination,800
+Madison,-89.386694,43.07295,destination,600
+Cheyenne,-104.821544,41.134815,destination,800
